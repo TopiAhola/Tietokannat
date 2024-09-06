@@ -8,6 +8,9 @@ location = (select ident from airport where airport.name = "Nottingham airport")
 where screen_name ="Vesa";  </br>
 ![8 1](https://github.com/user-attachments/assets/59a28eeb-1e36-4a67-8652-57730519b7af)
 
+--Kysymys 2
+goal_reached poistettava ensin </br>
+
 --Kysymys 3  </br>
 delete from goal_reached;  </br>
 ![8 3](https://github.com/user-attachments/assets/b4741f00-b555-41d6-81df-104a118aea03)
