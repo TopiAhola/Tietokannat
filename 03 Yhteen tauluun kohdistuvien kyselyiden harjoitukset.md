@@ -4,7 +4,7 @@
 select * from goal;
 ![ruudunkaappaus](kuvatiedoston-nimi.png)
 
---Kysymys 2  
+--Kysymys 2 </br>
 select name, type 
 from airport
 where iso_country = "fi";
