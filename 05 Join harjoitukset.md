@@ -1,3 +1,5 @@
+## 05 Join harjoitukset
+
 --Kysymys 1
 select country.name as "country name", airport.name as "airport name"
 from country
