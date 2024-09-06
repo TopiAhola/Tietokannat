@@ -10,14 +10,14 @@ from airport
 where iso_country = "fi";
 ![3 2](https://github.com/user-attachments/assets/59890710-ca3b-4fa6-9d3a-04e087c58b3e)
 
---Kysymys 3
+--Kysymys 3 </br>
 select airport.name
 from airport
 where iso_country = "FI"
 order by airport.name;
 
 
---Kysymys 4
+--Kysymys 4 </br>
 select airport.name, airport.type
 from airport
 where iso_country = "FI"
