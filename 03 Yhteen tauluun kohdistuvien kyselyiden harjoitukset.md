@@ -59,6 +59,8 @@ from game
 group by co2_budget;
 ![3 9](https://github.com/user-attachments/assets/5a153427-7037-44b7-a006-aa049e7008b2)  
 
+.
+
 
 
 
