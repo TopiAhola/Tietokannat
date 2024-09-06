@@ -1,4 +1,4 @@
-# 03 Yhteen tauluun kohdistuvien kyselyiden harjoitukset.
+## 03 Yhteen tauluun kohdistuvien kyselyiden harjoitukset.
 
 --Kysymys 1
 select * from goal;
