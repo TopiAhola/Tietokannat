@@ -8,12 +8,14 @@ select * from goal;
 select name, type 
 from airport
 where iso_country = "fi";
+![3 2](https://github.com/user-attachments/assets/59890710-ca3b-4fa6-9d3a-04e087c58b3e)
 
 --Kysymys 3
 select airport.name
 from airport
 where iso_country = "FI"
 order by airport.name;
+
 
 --Kysymys 4
 select airport.name, airport.type
